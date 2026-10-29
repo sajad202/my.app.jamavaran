@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "552761275935",
-    "project_id": "fc-jamavaran-app",
-    "storage_bucket": "fc-jamavaran-app.firebasestorage.app"
+    "project_number": "725690721218",
+    "project_id": "com-app-myjamavaran",
+    "storage_bucket": "com-app-myjamavaran.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:552761275935:android:1f2f404ea21c630259c72a",
+        "mobilesdk_app_id": "1:725690721218:android:75225ef30b6ba4ad332c5b",
         "android_client_info": {
-          "package_name": "fc.jamavaran.app"
+          "package_name": "com.app.myjamavaran"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAoupDMzq3RUiTaj93_rVwJHWVg3131tu4"
+          "current_key": "AIzaSyD42zC6SNtrFk3nCVTS_C9gVRajvJXZQgU"
         }
       ],
       "services": {
@@ -26,7 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:552761275935:android:10750ce482a7733159c72a",
+        "mobilesdk_app_id": "1:725690721218:android:b006954c5459bc58332c5b",
         "android_client_info": {
           "package_name": "my.app.jamavaran"
         }
@@ -34,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAoupDMzq3RUiTaj93_rVwJHWVg3131tu4"
+          "current_key": "AIzaSyD42zC6SNtrFk3nCVTS_C9gVRajvJXZQgU"
         }
       ],
       "services": {
