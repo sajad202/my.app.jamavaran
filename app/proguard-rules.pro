@@ -1,0 +1,2 @@
+-keep class my.app.jamavaran.** { *; }
+-dontwarn com.google.firebase.**
